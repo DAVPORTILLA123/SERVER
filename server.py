@@ -15,22 +15,17 @@
 # jp		      Japón (Tokyo)
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
-# us-cal-1	      Estados unidos (California)
+# us-cal-1	      Estados unidos (Californ
+# No toquesdasdasd sdfjkljajjdkajkklasdfjañljalsfdskj fasdkjfkjduf djskjafljjjuan david portill assystem.print out
+# gfhdgfhgfghjfjh
+# 
+# 
+# 
+# x
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# No toques nada de aquí para abajo, puedes dañarlo
+# nada de aquí para abajo, puedes dañarlo
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
